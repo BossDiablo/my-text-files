@@ -1,67 +1,88 @@
-43.159.11.249:443#🇸🇬新加坡 SIN
-43.132.244.52:21415#🇭🇰香港 HKG
-101.32.74.224:12817#🇭🇰香港 HKG
-101.32.189.207:39738#🇭🇰香港 HKG
-43.159.4.240:443#🇸🇬新加坡 SIN
-43.159.4.217:443#🇸🇬新加坡 SIN
-43.159.5.52:443#🇸🇬新加坡 SIN
-43.161.237.11:30005#🇭🇰香港 HKG
-43.129.178.21:443#🇸🇬新加坡 SIN
-43.159.12.248:443#🇸🇬新加坡 SIN
-43.132.231.159:443#🇭🇰香港 HKG
-43.159.5.102:443#🇸🇬新加坡 SIN
-119.28.66.34:443#🇭🇰香港 HKG
-101.32.74.224:12817#🇭🇰香港 HKG
-43.159.0.73:443#🇸🇬新加坡 SIN
-43.154.235.134:443#🇸🇬新加坡 SIN
-43.161.233.250:443#🇭🇰香港 HKG
-43.135.23.86:443#🇭🇰香港 HKG
-43.156.200.201:443#🇸🇬新加坡 SIN
-124.156.228.118:443#🇯🇵日本 东京 NRT
-43.130.252.12:443#🇯🇵日本 东京 NRT
-43.153.208.246:7788#🇸🇬新加坡 SIN
-43.165.133.183:17628#🇯🇵日本 东京 NRT
-43.165.175.34:443#🇯🇵日本 东京 NRT
-129.226.163.56:8388#🇭🇰香港 HKG
-43.156.235.151:12580#🇸🇬新加坡 SIN
-43.133.23.88:8388#🇯🇵日本 东京 NRT
-129.226.150.167:443#🇸🇬新加坡 SIN
-43.165.133.183:30058#🇯🇵日本 东京 NRT
-43.153.201.129:666#🇸🇬新加坡 SIN
-43.156.2.91:443#🇸🇬新加坡 SIN
-43.165.133.183:30058#🇯🇵日本 东京 NRT
-43.163.89.139:15000#🇸🇬新加坡 SIN
-43.163.98.26:443#🇸🇬新加坡 SIN
-43.163.225.68:4443#🇯🇵日本 东京 NRT
-43.163.89.186:3389#🇸🇬新加坡 SIN
-43.160.195.223:443#🇸🇬新加坡 SIN
-43.160.209.30:443#🇸🇬新加坡 SIN
-43.160.233.97:443#🇸🇬新加坡 SIN
-43.165.178.147:8443#🇯🇵日本 东京 NRT
-43.163.77.140:443#🇸🇬新加坡 SIN
-43.160.247.113:9999#🇸🇬新加坡 SIN
-43.165.133.183:17628#🇯🇵日本 东京 NRT
-43.153.155.143:2053#🇯🇵日本 东京 NRT
-43.160.200.156:4443#🇸🇬新加坡 SIN
-43.156.235.151:12580#🇸🇬新加坡 SIN
-43.156.71.213:63443#🇸🇬新加坡 SIN
-101.33.45.201:54321#🇸🇬新加坡 SIN
-124.156.241.190:443#🇹🇭泰国 曼谷 BKK
-43.155.239.203:39738#🇰🇷韩国 首尔 ICN
-43.128.147.145:443#🇰🇷韩国 首尔 ICN
-101.33.75.233:39738#🇰🇷韩国 首尔 ICN
-43.153.84.176:443#🇺🇸美国 圣何塞 SJC
-43.135.186.188:39738#🇺🇸美国 圣何塞 SJC
-170.106.83.41:12345#🇺🇸美国 圣何塞 SJC
-170.106.109.59:587#🇺🇸美国 圣何塞 SJC
-43.159.138.237:443#🇺🇸美国 圣何塞 SJC
-43.153.1.183:39738#🇺🇸美国 圣何塞 SJC
-170.106.109.59:587#🇺🇸美国 圣何塞 SJC
-43.135.180.101:9443#🇺🇸美国 圣何塞 SJC
-43.153.112.165:6443#🇺🇸美国 圣何塞 SJC
-170.106.84.131:443#🇺🇸美国 圣何塞 SJC
-43.153.124.18:443#🇺🇸美国 圣何塞 SJC
-129.226.206.175:443#🇸🇬新加坡 SIN
-43.134.174.114:443#🇸🇬新加坡 SIN
-162.62.120.236:20443#🇩🇪德国 法兰克福 FRA
-43.165.5.5:20000#🇩🇪德国 法兰克福 FRA
+jp.111000.cc.cd
+sni.111000.cc.cd
+bestcf.030101.xyz
+saas.sin.fan
+freeyx.cloudflare88.eu.org
+mfa.gov.ua
+store.ubi.com
+cf.130519.xyz
+cf.008500.xyz
+cf.090227.xyz
+cf.877774.xyz
+sub.danfeng.eu.org
+cf.zhetengsha.eu.org
+download.cloudflare-dl.cnae.top
+download.cloudflare-dl.byoip.top
+4-6-this-is-the-preferred-free-option.if-you-paid.youve-been-scammed.xn--4oqr7c4y9alz8a26c.xn--ykqqh3ob280k4sui1xhg6a0ti2u7a.cf.cnae.top
+cm.cloudflare.cnae.top
+cu.cloudflare.cnae.top
+ct.cloudflare.cnae.top
+ct.cloudflare.byoip.top
+cu.cloudflare.byoip.top
+cm.cloudflare.byoip.top
+ct.877774.xyz
+cmcc.877774.xyz
+cu.877774.xyz
+asia.877774.xyz
+eur.877774.xyz
+na.877774.xyz
+bpb.yousef.isegaro.com
+cdn.xn--b6gac.eu.org
+cdn-b100.xn--b6gac.eu.org
+netlify-cname.xingpingcn.top
+vercel.001315.xyz
+vercel-cname.xingpingcn.top
+cnamefuckxxs.yuchen.icu
+cdn.2020111.xyz
+cf-cname.xingpingcn.top
+cfcdn.v6.rocks
+aliyun.2096.us.kg
+time.cloudflare.com
+checkout.shopify.com
+shopify.com
+time.is
+icook.hk
+icook.tw
+ip.sb
+japan.com
+malaysia.com
+russia.com
+singapore.com
+skk.moe
+www.visa.com
+www.visa.com.sg
+www.visa.com.hk
+www.visa.com.tw
+www.visa.co.jp
+www.visakorea.com
+www.gco.gov.qa
+www.gov.se
+www.gov.ua
+www.digitalocean.com
+www.csgo.com
+www.shopify.com
+www.whoer.net
+www.whatismyip.com
+www.ipget.net
+www.hugedomains.com
+www.udacity.com
+www.4chan.org
+www.okcupid.com
+www.glassdoor.com
+www.udemy.com
+www.baipiao.eu.org
+cdn.anycast.eu.org
+cdn-all.xn--b6gac.eu.org
+xn--b6gac.eu.org
+edgetunnel.anycast.eu.org
+alejandracaiccedo.com
+nc.gocada.co
+log.bpminecraft.com
+www.boba88slot.com
+gur.gov.ua
+www.zsu.gov.ua
+www.iakeys.com
+edtunnel-dgp.pages.dev
+www.d-555.com
+fbi.gov
+*.cloudflare.182682.xyz
