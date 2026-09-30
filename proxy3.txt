@@ -1,89 +1,21 @@
-jp.111000.cc.cd
-sni.111000.cc.cd
-bestcf.030101.xyz
-saas.sin.fan
-freeyx.cloudflare88.eu.org
-mfa.gov.ua
-store.ubi.com
-cf.130519.xyz
-cf.008500.xyz
-cf.090227.xyz
-cf.877774.xyz
-
-sub.danfeng.eu.org
-cf.zhetengsha.eu.org
-download.cloudflare-dl.cnae.top
-download.cloudflare-dl.byoip.top
-4-6-this-is-the-preferred-free-option.if-you-paid.youve-been-scammed.xn--4oqr7c4y9alz8a26c.xn--ykqqh3ob280k4sui1xhg6a0ti2u7a.cf.cnae.top
-cm.cloudflare.cnae.top
-cu.cloudflare.cnae.top
-ct.cloudflare.cnae.top
-ct.cloudflare.byoip.top
-cu.cloudflare.byoip.top
-cm.cloudflare.byoip.top
-ct.877774.xyz
-cmcc.877774.xyz
-cu.877774.xyz
-asia.877774.xyz
-eur.877774.xyz
-na.877774.xyz
-bpb.yousef.isegaro.com
-cdn.xn--b6gac.eu.org
-cdn-b100.xn--b6gac.eu.org
-netlify-cname.xingpingcn.top
-vercel.001315.xyz
-vercel-cname.xingpingcn.top
-cnamefuckxxs.yuchen.icu
-cdn.2020111.xyz
-cf-cname.xingpingcn.top
-cfcdn.v6.rocks
-aliyun.2096.us.kg
-time.cloudflare.com
-checkout.shopify.com
-shopify.com
-time.is
-icook.hk
-icook.tw
-ip.sb
-japan.com
-malaysia.com
-russia.com
-singapore.com
-skk.moe
-www.visa.com
-www.visa.com.sg
-www.visa.com.hk
-www.visa.com.tw
-www.visa.co.jp
-www.visakorea.com
-www.gco.gov.qa
-www.gov.se
-www.gov.ua
-www.digitalocean.com
-www.csgo.com
-www.shopify.com
-www.whoer.net
-www.whatismyip.com
-www.ipget.net
-www.hugedomains.com
-www.udacity.com
-www.4chan.org
-www.okcupid.com
-www.glassdoor.com
-www.udemy.com
-www.baipiao.eu.org
-cdn.anycast.eu.org
-cdn-all.xn--b6gac.eu.org
-xn--b6gac.eu.org
-edgetunnel.anycast.eu.org
-alejandracaiccedo.com
-nc.gocada.co
-log.bpminecraft.com
-www.boba88slot.com
-gur.gov.ua
-www.zsu.gov.ua
-www.iakeys.com
-edtunnel-dgp.pages.dev
-www.d-555.com
-fbi.gov
-*.cloudflare.182682.xyz
+fn.130519.xyz:2083#JP 电信优选[fn.130519.xyz 68ms]
+cdn.667891.xyz:8443#JP 电信优选[cdn.667891.xyz 69ms]
+saas.072159.xyz:2083#JP 电信优选[saas.072159.xyz 72ms]
+cloudflare.idc.rocks:8443#JP 电信优选[cloudflare.idc.rocks 72ms]
+cf.itv888.cn:2083#JP 电信优选[cf.itv888.cn 73ms]
+img.css.sd:443#JP 电信优选[img.css.sd 74ms]
+cf.xreak.top:2087#JP 电信优选[cf.xreak.top 75ms]
+cf-cname.xingpingcn.top:2096#JP 电信优选[cf-cname.xingpingcn.top 78ms]
+cf.nyanya.moe:2087#JP 电信优选[cf.nyanya.moe 78ms]
+www.galgamex.net:2053#JP 电信优选[www.galgamex.net 80ms]
+cf.3666888.xyz:2053#JP 电信优选[cf.3666888.xyz 80ms]
+cf.1o.ee:2083#JP 电信优选[cf.1o.ee 80ms]
+www.5199dy.com:2053#JP 电信优选[www.5199dy.com 81ms]
+saas.sin.fan:8443#JP 电信优选[saas.sin.fan 82ms]
+vps.cheng2001.top:2096#JP 电信优选[vps.cheng2001.top 84ms]
+bbs.alipansou.com:2087#JP 电信优选[bbs.alipansou.com 85ms]
+eii.at:2053#JP 电信优选[eii.at 91ms]
+prizepicks.com:2053#SG 电信优选[prizepicks.com 94ms]
+www.wuduanyun.com:2053#JP 电信优选[www.wuduanyun.com 94ms]
+egov.uscis.gov:2053#SG 电信优选[egov.uscis.gov 97ms]
+markmonitor.com:2053#SG 电信优选[markmonitor.com 104ms]
