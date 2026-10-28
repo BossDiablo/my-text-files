@@ -30,3 +30,5 @@ jquery.com:2083#US 电信优选[jquery.com 164ms]
 cf.92555.xyz:443#US 电信优选[cf.92555.xyz 167ms]
 clickhouse.com:8443#US 电信优选[clickhouse.com 167ms]
 zoominfo.com:2096#US 电信优选[zoominfo.com 170ms]
+saas.sin.fan:8443
+eii.at:2053
